@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.d00f45766354f4a08976ce80b65bb1e3.js"
+  "/StroudBasementPublic/precache-manifest.d00f45766354f4a08976ce80b65bb1e3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ChatMe"});
